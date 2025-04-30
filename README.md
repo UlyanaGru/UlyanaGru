@@ -19,7 +19,7 @@
 **Tools**
 - Docker
 ## :chart_with_upwards_trend: GitHub Stats
-## :sunny: Recent Achievements
+## :tea: Recent Achievements
 ## :bulb: Current Focus
 ## :envelope: Let's Connect
 - Email giperbolicheskiisinys@gmail.com
