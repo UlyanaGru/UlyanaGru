@@ -1,4 +1,4 @@
-# :herb: Hi, I'm Ulyana | bachelor of MPEI/researcher :telescope:
+# :herb: Hi, I'm Ulyana | bachelor of MPEI/researcher :telescope: ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?logo=GitHub&style=flat&logoColor=white)
 
 [![GitHub Followers](https://img.shields.io/github/followers/UlyanaGru?label=Follow&style=social)](https://github.com/UlyanaGru)
 
@@ -11,8 +11,13 @@
 - C++
 - Java
 - SQL
+  
 **Frameworks**
+- React
+- Node.js
+
 **Tools**
+- Docker
 ## :chart_with_upwards_trend: GitHub Stats
 ## :sunny: Recent Achievements
 ## :bulb: Current Focus
