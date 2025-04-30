@@ -6,11 +6,11 @@
 
 ---
 
-## 🚀 Featured Projects
+## :rice_scene: Featured Projects
 
 ---
 
-## 📈 GitHub Stats
+## :chart_with_upwards_trend: GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?UlyanaGru=yourusername&show_icons=true&theme=radical)
 
