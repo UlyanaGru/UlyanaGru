@@ -20,4 +20,4 @@
 ---
 **Random facts:**\
 admire music of [Irish Stew of Sindidun](https://music.yandex.ru/artist/6675190)\
-fav movie Ledally Blod
+fav movie Legally Blod
