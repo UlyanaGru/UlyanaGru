@@ -4,14 +4,13 @@
 
 **A passionate ML developer building AI that facilitates the workflow**
 
----
-
-## :rice_scene: Featured Projects
-
----
-
+## :seedling: Featured Projects
+## :computer: Tech Arsenal
+**Languages**  
+**Frameworks**
+**Tools**
 ## :chart_with_upwards_trend: GitHub Stats
+## :sunny: Recent Achievements
+## :bulb: Current Focus
+## :envelope: Let's Connect
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?UlyanaGru=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?UlyanaGru=yourusername&layout=compact)
