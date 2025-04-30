@@ -1,4 +1,4 @@
-# :herb: Hi, I'm Ulyana | bachelor of MPEI/researcher
+# :herb: Hi, I'm Ulyana | bachelor of MPEI/researcher :telescope:
 
 [![GitHub Followers](https://img.shields.io/github/followers/UlyanaGru?label=Follow&style=social)](https://github.com/UlyanaGru)
 
@@ -14,6 +14,8 @@
 ## :bulb: Current Focus
 ## :envelope: Let's Connect
 - [Email](giperbolicheskiisinys@gmail.com)
-- [Personal Website]
-- [HH](https://hh.ru/resume/7bfc8f91ff0cf530670039ed1f6a696b384847)
+- [Personal Website]()
+- [HH]()
 - [Telegram](https://t.me/anantinglucose)
+**Random facts:**
+- admire music of [Irish Stew of Sindidun](https://music.yandex.ru/artist/6675190)
