@@ -6,9 +6,9 @@
 
 ## :seedling: Featured Projects
 ## :computer: Tech Arsenal
-**Languages**\
-![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=Python&style=flat)\
-![C++](https://img.shields.io/badge/-C++-365dbf.svg?logo=C%2B%2B&style=flat)\
+**Languages**
+![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=Python&style=flat)\t
+![C++](https://img.shields.io/badge/-C++-365dbf.svg?logo=C%2B%2B&style=flat)\t
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&style=flat&logoColor=white)
   
 **Frameworks**\
