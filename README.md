@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Ulyana] | [bachelor of MPEI/researcher]
+# 👋 Hi, I'm Ulyana | bachelor of MPEI/researcher
 
 [![GitHub Followers](https://img.shields.io/github/followers/UlyanaGru?label=Follow&style=social)](https://github.com/UlyanaGru)
 
