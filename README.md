@@ -2,7 +2,7 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/UlyanaGru?label=Follow&style=social)](https://github.com/UlyanaGru)
 
-<hr> **A passionate ML developer building AI that facilitates the workflow** </hr>
+<br> **A passionate ML developer building AI that facilitates the workflow** </br>
 
 ## :seedling: Featured Projects
 ## :computer: Tech Arsenal
