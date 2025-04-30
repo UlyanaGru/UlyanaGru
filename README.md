@@ -13,7 +13,7 @@
 ## :sunny: Recent Achievements
 ## :bulb: Current Focus
 ## :envelope: Let's Connect
-- [Email](giperbolicheskiisinys@gmail.com)
+- Email giperbolicheskiisinys@gmail.com
 - [Personal Website]()
 - [HH]()
 - [Telegram](https://t.me/anantinglucose)
