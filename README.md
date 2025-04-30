@@ -19,8 +19,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-%230db7ed.svg?logo=docker&style=flat&logoColor=white)\
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&style=flat&logoColor=white)
 ## :chart_with_upwards_trend: GitHub Stats
-![UlyanaGru GitHub stats](https://github-readme-stats.vercel.app/api?username=UlyanaGru)
-![UlyanaGru GitHub stats](https://github-readme-stats.vercel.app/api?username=UlyanaGru&theme=tokyonight&show_icons=true)
+![UlyanaGru GitHub stats](https://github-readme-stats.vercel.app/api?username=UlyanaGru)\
+
 ## :tea: Recent Achievements
 ## :bulb: Current Focus
 ## :envelope: Let's Connect
