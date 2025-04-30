@@ -13,4 +13,6 @@
 ## :sunny: Recent Achievements
 ## :bulb: Current Focus
 ## :envelope: Let's Connect
-
+- [Email](giperbolicheskiisinys@gmail.com)
+- [Personal Website]
+- [HH](https://hh.ru/resume/7bfc8f91ff0cf530670039ed1f6a696b384847)
