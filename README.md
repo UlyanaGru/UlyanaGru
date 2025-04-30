@@ -7,6 +7,10 @@
 ## :seedling: Featured Projects
 ## :computer: Tech Arsenal
 **Languages**  
+- Python
+- C++
+- Java
+- SQL
 **Frameworks**
 **Tools**
 ## :chart_with_upwards_trend: GitHub Stats
