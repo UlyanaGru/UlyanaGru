@@ -1,4 +1,4 @@
-# ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?logo=GitHub&style=flat&logoColor=white) Hi, I'm Ulyana | bachelor of MPEI/researcher :telescope:
+# ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?logo=GitHub&style=flat&logoColor=white) Hi, I'm Ulyana | bachelor of MPEI :telescope:
 
 [![GitHub Followers](https://img.shields.io/github/followers/UlyanaGru?label=Follow&style=social)](https://github.com/UlyanaGru)
 
