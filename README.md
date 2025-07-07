@@ -31,5 +31,4 @@
 ## :envelope: Let's Connect
 - Email giperbolicheskiisinys@gmail.com
 - [Personal Website]()
-- [HH]()
 - [Telegram](https://t.me/straightforwhat)
