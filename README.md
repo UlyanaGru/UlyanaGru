@@ -26,7 +26,7 @@
 ## :tea: Recent Achievements
 ## :bulb: Current Focus
 - Building [DS Project]() - Output and analysis of statistical parameters 
-- Mastering SQL
+- Mastering EDA
 - Optimization of reading and writing files of various formats
 ## :envelope: Let's Connect
 - Email giperbolicheskiisinys@gmail.com
