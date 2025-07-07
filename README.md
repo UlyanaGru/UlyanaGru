@@ -25,7 +25,7 @@
 ![UlyanaGru GitHub stats](https://github-readme-stats.vercel.app/api?username=UlyanaGru)
 ## :tea: Recent Achievements
 ## :bulb: Current Focus
-- Building [DS Project]() - Output and analysis of statistical parameters 
+- Building [DS Project](https://github.com/UlyanaGru/hh-resume-analysis-SQL) - Output and analysis of statistical parameters 
 - Mastering EDA
 - Optimization of reading and writing files of various formats
 ## :envelope: Let's Connect
