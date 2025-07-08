@@ -4,7 +4,6 @@
 
 **A passionate ML developer building AI that facilitates the workflow**
 
-## :seedling: Featured Projects
 ## :computer: Tech Arsenal
 **Languages**
 
