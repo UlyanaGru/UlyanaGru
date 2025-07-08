@@ -28,7 +28,7 @@
 - Building [DS Project](https://github.com/UlyanaGru/hh-resume-analysis-SQL) - Output and analysis of statistical parameters 
 - Mastering EDA
 - Working on making solution task a [CodeRun](https://coderun.yandex.ru/)\
-  Some examples: [volleyball](https://github.com/UlyanaGru/volleyball), [various_digits]()
+  Some examples: [volleyball](https://github.com/UlyanaGru/volleyball), [various_digits](https://github.com/UlyanaGru/various_nimeric)
 ## :envelope: Let's Connect
 - Email giperbolicheskiisinys@gmail.com
 - [Personal Website]()
