@@ -27,7 +27,8 @@
 ## :bulb: Current Focus
 - Building [DS Project](https://github.com/UlyanaGru/hh-resume-analysis-SQL) - Output and analysis of statistical parameters 
 - Mastering EDA
-- Optimization of reading and writing files of various formats
+- Working on making solution task a [CodeRun](https://coderun.yandex.ru/)\
+  Some examples: [volleyball](), [various_digits]()
 ## :envelope: Let's Connect
 - Email giperbolicheskiisinys@gmail.com
 - [Personal Website]()
