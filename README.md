@@ -31,5 +31,4 @@
   Some examples: [volleyball](https://github.com/UlyanaGru/volleyball), [various_digits](https://github.com/UlyanaGru/various_nimeric)
 ## :envelope: Let's Connect
 - Email giperbolicheskiisinys@gmail.com
-- [Personal Website]()
 - [Telegram](https://t.me/straightforwhat)
