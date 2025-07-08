@@ -23,7 +23,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&style=flat&logoColor=white)
 ## :chart_with_upwards_trend: GitHub Stats
 ![UlyanaGru GitHub stats](https://github-readme-stats.vercel.app/api?username=UlyanaGru)
-## :tea: Recent Achievements
 ## :bulb: Current Focus
 - Building [DS Project](https://github.com/UlyanaGru/hh-resume-analysis-SQL) - Output and analysis of statistical parameters 
 - Mastering EDA
