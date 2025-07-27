@@ -30,3 +30,4 @@
 ## :envelope: Let's Connect
 - Email giperbolicheskiisinys@gmail.com
 - [Telegram](https://t.me/straightforwhat)
+- [Kaggle](https://www.kaggle.com/pyrotechnician)
