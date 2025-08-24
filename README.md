@@ -23,7 +23,6 @@
 ## :chart_with_upwards_trend: GitHub Stats
 ![UlyanaGru GitHub stats](https://github-readme-stats.vercel.app/api?username=UlyanaGru)
 ## :bulb: Current Focus
-- Building [DS Project](https://github.com/UlyanaGru/hh-resume-analysis-SQL) - Output and analysis of statistical parameters 
 - Mastering EDA, ML
 - Working on making solution task a [CodeRun](https://coderun.yandex.ru/)
 ## :envelope: Let's Connect
